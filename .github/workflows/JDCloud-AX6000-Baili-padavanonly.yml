@@ -8,7 +8,7 @@
 # Description: Build OpenWrt using GitHub Actions
 #
 ###############手动修改##############
-name: JDCloud-AX6000-Baili-padavanonly-23.05
+name: JDCloud-AX6000-Baili-padavanonly
 
 on:
   repository_dispatch:
@@ -284,7 +284,7 @@ jobs:
                echo "- 使用DSA交换机驱动" >> release.txt
         fi
         if [[ "${{ env.WIFI_INTERFACE }}" == '-mtwifi' ]]; then
-                echo "- 使用hanwckf mtwifi-cfg原生luci无线配置工具" >> release.txt
+                echo "- 使用mtwifi-cfg原生luci无线配置工具" >> release.txt
         else
                 echo "- 使用mtk-sdk luci-app-mtk无线配置工具" >> release.txt
         fi
