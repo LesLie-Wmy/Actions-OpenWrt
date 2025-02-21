@@ -4,7 +4,7 @@
 
 #### 237大佬mt798x-23.05闭源仓库- https://github.com/padavanonly/immortalwrt-mt798x-23.05
 
-#### NekokeCor佬mt798x-24.10闭源仓库- https://github.com/NekokeCore/immortalwrt-mt798x-24.10
+#### NekokeCore佬mt798x-24.10闭源仓库- https://github.com/NekokeCore/immortalwrt-mt798x-24.10
 
 #### hanwckf大佬mt798x uboot仓库- [hanwckf/bl-mt798x](https://github.com/hanwckf/bl-mt798x).
 
