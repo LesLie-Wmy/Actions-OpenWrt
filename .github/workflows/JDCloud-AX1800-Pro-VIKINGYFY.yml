@@ -31,7 +31,7 @@ env:
   OPENWRT_NAME: VIKINGYFY
   UPLOAD_TAG_NAME: JDCloud-AX1800-Pro
   REPO_URL: https://github.com/VIKINGYFY/immortalwrt
-  REPO_BRANCH: master
+  REPO_BRANCH: main
   FEEDS_CONF: feeds.conf.default
   CONFIG_FILE: JDCloud-AX1800-Pro-VIKINGYFY/.config
   DIY_P1_SH: JDCloud-AX1800-Pro-VIKINGYFY/diy-part1.sh
