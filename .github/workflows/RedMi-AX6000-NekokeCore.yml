@@ -66,10 +66,10 @@ env:
   OPENWRT_NAME: NekokeCore
   REPO_URL: https://github.com/NekokeCore/immortalwrt-mt798x-24.10
   REPO_BRANCH: openwrt-24.10
-  FEEDS_CONF: Feeds/RedMi-AX6000-NekokeCore/feeds.conf.default
-  CONFIG_FILE: Configs/RedMi-AX6000-NekokeCore/.mtwifi-cfg.config
-  DIY_P1_SH: Scripts/RedMi-AX6000-NekokeCore/diy-part1.sh
-  DIY_P2_SH: Scripts/RedMi-AX6000-NekokeCore/diy-part2.sh
+  FEEDS_CONF: RedMi-AX6000-NekokeCore/feeds.conf.default
+  CONFIG_FILE: RedMi-AX6000-NekokeCore/.mtwifi-cfg.config
+  DIY_P1_SH: RedMi-AX6000-NekokeCore/diy-part1.sh
+  DIY_P2_SH: RedMi-AX6000-NekokeCore/diy-part2.sh
   SSH_ACTIONS: false
   UPLOAD_FIRMWARE: true
   UPLOAD_RELEASE: true
